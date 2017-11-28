@@ -6,4 +6,10 @@
 ### Microsoft Teams
 ### Yammer
 
-
+## Applications
+### Outlook
+### Word
+### Excel
+### Powerpoint
+### OneNote
+### Access
