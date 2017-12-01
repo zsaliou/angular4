@@ -13,3 +13,8 @@
 ### Powerpoint
 ### OneNote
 ### Access
+
+## Integrations
+### Box
+### Google Drive
+### Dropbox
