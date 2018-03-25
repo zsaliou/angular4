@@ -1,4 +1,4 @@
-# Primerica Office 365 Demo
+# Primerica Office 365 - Teams Demo
 
 ## Services
 ### Sharepoint
